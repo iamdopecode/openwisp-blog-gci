@@ -1,0 +1,24 @@
+Wireless Communities in India
+Wireless community networks or wireless community projects are the organizations that attempt to take a grassroots approach to providing a viable alternative to municipal wireless networks for consumers. The Wi-Fi service provided by such groups is usually free and without the stigma of piggybacking.
+There are a number of such communities existing in India as well. A few of them are:
+With a population of more than 1.3 billion people, India presents one of the biggest challenges to the endeavour to connect the next billion people to the Internet. Especially given the fact that 67% of all Indians reside in small, often rural, villages, community networking is proving to be a vital tool to assist in raising rural teledensity, which currently rests at around 49%.
+
+Wireless for Communities is an initiative of Digital Empowerment Foundation (DEF) and the Internet Society (ISOC) that has been supported by various partners over the years. Launched in 2010, Wireless for Communities or W4C aims to connect rural and remote locations of India, where mainstream Internet Service Providers (ISPs) are not willing to provide internet connectivity as they feel their operations would not be commercially viable.
+W4C involves line-of-sight and low-cost Wi-Fi equipment, which utilise the unlicensed spectrum bands — 2.4 GHz and 5.8 GHz — to create community-owned and community-operated wireless networks in rural and remote locations of India to democratise access and make it available to all.
+The program started in a village in India and has now expanded to 146 access points throughout India. It aims at providing internet connectivity by using low-cost WiFi equipment and address the lack of content, products and services originating from the rural areas which prevents economic benefits from reaching such areas.
+
+Established in 2002, Digital Empowerment Foundation (DEF) aims to connect unreached and underserved communities of India in an effort to bring them out of digital darkness and equip them with access to information.
+With the belief ‘Inform, Communicate and Empower,’ DEF finds sustainable digital interventions to overcome information poverty in rural and remote locations of India, and empower communities with digital literacy, digital tools and last mile connectivity.
+DEF has various core projects, one of them being CIRC. It has partnered with the Ministry of Minority affairs to make internet access possible in the remote areas of the country.
+
+The Community Information Resource Centres (CIRCs) are community oriented robust platforms built to create information-empowered, equitable communities across the length and breadth of the country. These technology hubs aim to facilitate unrestricted digital access to knowledge, along with network support with provisions of Information and communication technology (ICT) services in order to serve the information deprived corners of the country. By creating a holistic environment that enables skill development and capacity building, CIRC have been acting as a dynamic step taken to achieve complete digital inclusion and hence partner in achieving the vision of digital India.
+Apart from these few, there have been many initiatives for making widespread and easy access to internet possible.
+Many telecommunication companies like Airtel and Reliance Jio have collaborated with governments or NGOs and made the notion of ‘Free access to Internet’ possible.
+Organisations like Facebook and Google have also set up free WiFi areas in the country. Facebook Inc has tied up with India’s Reliance Communications Ltd to offer free access to a handful of online services in India, broadening its campaign to boost Internet use in the developing world.
+
+India, the world’s second-biggest mobile market, will become the first country in Asia to get the new Internet.org app, which targets mobile phone users.
+In January, Google’s free public WiFi service at railway stations went live with Mumbai Central. Seven months on, the service has over 1.5 million people users at 19 railway stations.
+Telecommunication giants like Airtel and Jio have contributed in free WiFi zones in cities like Gurugram, Kolkata, Ahemdabad,etc.
+
+Many state governments have also developed free or affordable WiFi zones in many cities like Delhi, Bangalore, Bhubaneswar, etc.
+Wireless communication continues to be an important part of our lives, now more than ever before, therefore it is imperative that we work towards the goal of Net Neutrality and Free access to internet for all humans.
